@@ -155,10 +155,14 @@ html{
     min-height: 400px;
     margin-top: 46px;
     padding-top: 50%;
+<<<<<<< HEAD:assets/css/style.css
     background-image: url('./assets/images/band/bandmember6.jpg');
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
+=======
+    background: url('./assets/images/slide/chicago.jpg') top center / cover no-repeat;
+>>>>>>> c87c806495fa87b51a501f21d9c0cb9a1045b852:style.css
     position: relative;
     background-size: 100% 700px;
     animation: transform infinite 15s;
@@ -406,9 +410,13 @@ html{
         transform: translateY(0) ;
     }
 }
+<<<<<<< HEAD:assets/css/style.css
 #contact{
     background-color: #fff;
 }
+=======
+
+>>>>>>> c87c806495fa87b51a501f21d9c0cb9a1045b852:style.css
 .contact-content{
     margin-top: 48px;
 }
@@ -438,6 +446,21 @@ html{
 #footer .sociail{
     font-size: 24px;
 
+<<<<<<< HEAD:assets/css/style.css
+=======
+=======
+#footer .video{
+    margin: 20px 500px;
+}
+#footer1{
+    background-color: #757575;
+}
+#footer2{
+    margin-left: -20px;
+    background-color: #000;
+    
+
+>>>>>>> c87c806495fa87b51a501f21d9c0cb9a1045b852:style.css
 }
 
 #footer .social a{
