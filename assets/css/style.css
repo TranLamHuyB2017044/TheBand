@@ -165,7 +165,7 @@ html{
 }
 
 @keyframes transform{
-    0%,100%{
+    0%, 100%{
         background-image: url('/assets/images/band/bandmember6.jpg');
     }  
     20%{
